@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. 분산 추적 - Jaeger와 OpenTelemetry.md",
+                "file": "12. 보안 기초 - HTTPS, 인증, 시크릿 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. 분산 추적 - Jaeger와 OpenTelemetry"
+              "title": "12. 보안 기초 - HTTPS, 인증, 시크릿 관리"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dff4391988f1ca6d",
@@ -186,11 +185,12 @@
   },
   "active": "a0ef790f07d2c6c7",
   "lastOpenFiles": [
+    "11. 분산 추적 - Jaeger와 OpenTelemetry.md",
+    "12. 보안 기초 - HTTPS, 인증, 시크릿 관리.md",
     "새 텍스트 문서.txt",
     "새 폴더",
     "1. 서버 인프라 개념 - 물리서버 ~ 클라우드.md",
     "10. 네트워크 - 로드밸런서와 CDN.md",
-    "11. 분산 추적 - Jaeger와 OpenTelemetry.md",
     "9. 모니터링 - Prometheus와 Grafana.md",
     "8. ELK 스택.md",
     "7. CICD 파이프라인.md",
